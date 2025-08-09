@@ -7,14 +7,14 @@ const Home: NextPage = () => {
     <div className="min-h-screen  w-full flex items-center justify-center bg-gradient-to-br from-white  to-blue-100">
       <div className="text-center w-[40rem] text-black  rounded-2xl ">
         <div className="flex justify-center">
-          <div className="w-[10rem]">
-            <Logo />
+          <div className=" pb-4">
+            <Logo width={"123"} height={"108"} />
           </div>
         </div>
         <div className="flex justify-center ">
-          <h1 className="md:text-6xl font-bold mb-4">Trexo Technologies</h1>
+          <h1 className="md:text-6xl font-bold mb-4 tracking-tighter">Trexo Technologies</h1>
         </div>
-        <p className="text-2xl italic  mb-2">
+        <p className="text-xl italic  mb-2">
           Building software that solves, not just sells
         </p>
         <div className=" font-medium text-red-500">
