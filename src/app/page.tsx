@@ -14,11 +14,11 @@ const Home: NextPage = () => {
         <div className="flex justify-center ">
           <h1 className="md:text-6xl font-bold mb-4">Trexo Technologies</h1>
         </div>
-        <p className="text-lg italic  mb-2">
+        <p className="text-2xl italic  mb-2">
           Building software that solves, not just sells
         </p>
-        <div className=" font-medium text-red-500 text-xl">
-          🚧 Website Under Construction 🚧
+        <div className=" font-medium text-red-500">
+          🚧 Building Something Exciting, Please check back soon. 🚧
         </div>
       </div>
     </div>
